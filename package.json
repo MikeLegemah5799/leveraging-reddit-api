@@ -2,7 +2,7 @@
   "name": "leveraging-reddit-api",
   "homepage": "https://mikelegemah5799.github.io/leveraging-reddit-api/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.4.2",
